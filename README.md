@@ -1,7 +1,3 @@
-Here’s a professional README for your startup analysis notebook:  
-
----
-
 # **Startup Analysis: Billion-Dollar Valuations**  
 
 ## **Overview**  
